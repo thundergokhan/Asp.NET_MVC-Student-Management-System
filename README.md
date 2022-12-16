@@ -25,10 +25,11 @@ Course
 Course Registration
  
 ![image](https://user-images.githubusercontent.com/82091624/208179594-d3556dd5-79b0-4616-9ab8-de19d5c099f4.png)
-
+<ul>
 System shall be able to record the course details.
 System shall be able to edit the course details.
 System shall be able to delete the course details.
+  </ul>
 </hr>
     <hr> 
     
@@ -42,11 +43,11 @@ Batch
 Batch Registration
 
 ![image](https://user-images.githubusercontent.com/82091624/208179650-def49a2b-a128-402e-8cb9-9f2182b5ecc1.png)
-
+<ul>
 System shall be able to record the batch details.
 System shall be able to edit the batch details.
 System shall be able to delete the batch details.
-
+</ul>
 </hr>
     <hr> 
 Student 
