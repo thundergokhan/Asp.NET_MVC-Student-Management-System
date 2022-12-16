@@ -1,7 +1,6 @@
 # Asp.NET_MVC-Student-Management-System
 Student Management System Project Asp.net MVC
 
-Student Management System Project Asp.net MVC step by step very simple way to complete the project.
 <hr> 
 Dashboard
 
