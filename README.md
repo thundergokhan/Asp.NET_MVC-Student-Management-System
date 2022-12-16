@@ -1,14 +1,14 @@
 # Asp.NET_MVC-Student-Management-System
-Student Management System Project Asp.net MVC
+<b> Student Management System Project Asp.net MVC </b>
 
 <hr> 
-Dashboard
+<b>Dashboard
 
 ![image](https://user-images.githubusercontent.com/82091624/208179180-1a1bcccd-deb1-4492-87df-6becc5f8eeeb.png)
 
   </hr>
     <hr> 
-Login
+<b>Login</b>
 
 User shall be able to login the system.
 
@@ -16,13 +16,13 @@ User shall be able to login the system.
 
 </hr>
     <hr> 
-Course
+<b>Course</b>
 
 ![image](https://user-images.githubusercontent.com/82091624/208179323-784222f5-90ae-4f9e-b224-1f9451702443.png)
 
 </hr>
     <hr> 
-Course Registration
+<b>Course Registration</b>
  
 ![image](https://user-images.githubusercontent.com/82091624/208179594-d3556dd5-79b0-4616-9ab8-de19d5c099f4.png)
 <ul>
@@ -33,14 +33,14 @@ Course Registration
 </hr>
     <hr> 
     
-Batch
+<b>Batch</b>
 
 ![image](https://user-images.githubusercontent.com/82091624/208179624-b4311f03-0a83-4c57-b014-f3ed05ec8903.png)
 
 </hr>
     <hr> 
     
-Batch Registration
+<b>Batch Registration</b>
 
 ![image](https://user-images.githubusercontent.com/82091624/208179650-def49a2b-a128-402e-8cb9-9f2182b5ecc1.png)
 <ul>
@@ -50,13 +50,13 @@ Batch Registration
 </ul>
 </hr>
     <hr> 
-Student 
+<b>Student </b>
 
 ![image](https://user-images.githubusercontent.com/82091624/208179864-6bd3aa84-4c59-4187-9ab3-7e5799d61ec9.png)
 
 </hr>
     <hr> 
-Student Registation Form
+<b>Student Registation Form</b>
 
 ![image](https://user-images.githubusercontent.com/82091624/208179894-8cde2498-c192-484d-9833-3030baa79208.png)
 </hr>
